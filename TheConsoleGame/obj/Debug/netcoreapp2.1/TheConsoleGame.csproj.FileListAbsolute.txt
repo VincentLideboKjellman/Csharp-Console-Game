@@ -1,0 +1,11 @@
+/Users/vincentlk/Documents/CSharp/Game_Assignment/TheConsoleGame/TheConsoleGame/bin/Debug/netcoreapp2.1/TheConsoleGame.deps.json
+/Users/vincentlk/Documents/CSharp/Game_Assignment/TheConsoleGame/TheConsoleGame/bin/Debug/netcoreapp2.1/TheConsoleGame.runtimeconfig.json
+/Users/vincentlk/Documents/CSharp/Game_Assignment/TheConsoleGame/TheConsoleGame/bin/Debug/netcoreapp2.1/TheConsoleGame.runtimeconfig.dev.json
+/Users/vincentlk/Documents/CSharp/Game_Assignment/TheConsoleGame/TheConsoleGame/bin/Debug/netcoreapp2.1/TheConsoleGame.dll
+/Users/vincentlk/Documents/CSharp/Game_Assignment/TheConsoleGame/TheConsoleGame/bin/Debug/netcoreapp2.1/TheConsoleGame.pdb
+/Users/vincentlk/Documents/CSharp/Game_Assignment/TheConsoleGame/TheConsoleGame/obj/Debug/netcoreapp2.1/TheConsoleGame.csprojAssemblyReference.cache
+/Users/vincentlk/Documents/CSharp/Game_Assignment/TheConsoleGame/TheConsoleGame/obj/Debug/netcoreapp2.1/TheConsoleGame.csproj.CoreCompileInputs.cache
+/Users/vincentlk/Documents/CSharp/Game_Assignment/TheConsoleGame/TheConsoleGame/obj/Debug/netcoreapp2.1/TheConsoleGame.AssemblyInfoInputs.cache
+/Users/vincentlk/Documents/CSharp/Game_Assignment/TheConsoleGame/TheConsoleGame/obj/Debug/netcoreapp2.1/TheConsoleGame.AssemblyInfo.cs
+/Users/vincentlk/Documents/CSharp/Game_Assignment/TheConsoleGame/TheConsoleGame/obj/Debug/netcoreapp2.1/TheConsoleGame.dll
+/Users/vincentlk/Documents/CSharp/Game_Assignment/TheConsoleGame/TheConsoleGame/obj/Debug/netcoreapp2.1/TheConsoleGame.pdb
